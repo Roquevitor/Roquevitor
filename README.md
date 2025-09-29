@@ -96,7 +96,7 @@ Olá, eu chamo Roque Vitor de Jesus, tenho 20 anos e sou natural de Salvador, na
       alt="GitHub Stats" 
       height="250"
       width="370" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoqueVitor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?roquevitor=myusername&theme=tokyonight)" 
   />
 
 </p>
